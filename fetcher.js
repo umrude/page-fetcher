@@ -14,9 +14,3 @@ request(test[0], (error, response, body) => {
     });
   });
 });
-
-
-
-
-
-
